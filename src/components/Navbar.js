@@ -13,7 +13,7 @@ const Navigation = (props) => {
                 <Nav className="mr-auto">
                     <Nav.Link href="/">Home</Nav.Link>
                     <Nav.Link href="/Finances">Finances</Nav.Link>
-                    <Nav.Link href="/About">About</Nav.Link>
+                    <Nav.Link href="/Visualize">Visualize</Nav.Link>
                     <Nav.Link href="/Contact">Contact</Nav.Link>
                 </Nav>
             </Navbar.Collapse>

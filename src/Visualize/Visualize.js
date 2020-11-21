@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
-class About extends Component {
+class Visualize extends Component {
     render() {
         return (
             <div style={{ display: 'flex', justifyContent: 'center', padding: 30 }}>
                 <div>
-                    <h2>About Page</h2>
+                    <h2>Visualize Your Value</h2>
                     <p> Built by the best team in the business, hands down.</p>
                 </div>
             </div>
@@ -13,4 +13,4 @@ class About extends Component {
     }
 }
 
-export default About;
+export default Visualize;

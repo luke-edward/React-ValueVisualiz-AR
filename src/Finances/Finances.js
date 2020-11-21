@@ -36,7 +36,7 @@ class Finances extends Component {
               <br/>
               <Form.Control type="Utilities" placeholder="Utilities" />
             </Form.Group>
-            <Button style = {{width:400,height: 50, background:"#7037ed", borderRadius: 50, borderWidth: 0, marginLeft: 70}} variant="btn btn-success" onClick={() => history.push('/About')}>Submit</Button>
+            <Button style = {{width:400,height: 50, background:"#7037ed", borderRadius: 50, borderWidth: 0, marginLeft: 70}} variant="btn btn-success" onClick={() => history.push('/Visualize')}>Submit</Button>
           </Form>
         </div>
       </div>
